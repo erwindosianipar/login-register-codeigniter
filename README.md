@@ -1,11 +1,7 @@
 # login-register-codeigniter
 Login and register system with email activation, SMTP Gmail x CodeIgniter Mail Library
 
-<img src="https://img.shields.io/github/issues/erwindosianipar/login-register-codeigniter">
-<img src="https://img.shields.io/github/forks/erwindosianipar/login-register-codeigniter">
-<img src="https://img.shields.io/github/stars/erwindosianipar/login-register-codeigniter">
-<img src="https://img.shields.io/github/license/erwindosianipar/login-register-codeigniter">
-<img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ferwindosianipar%2Flogin-register-codeigniter%2F">
+<img src="https://img.shields.io/github/issues/erwindosianipar/login-register-codeigniter"> <img src="https://img.shields.io/github/forks/erwindosianipar/login-register-codeigniter"> <img src="https://img.shields.io/github/stars/erwindosianipar/login-register-codeigniter"> <img src="https://img.shields.io/github/license/erwindosianipar/login-register-codeigniter"> <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ferwindosianipar%2Flogin-register-codeigniter%2F">
 
 Build with
 <ul>
